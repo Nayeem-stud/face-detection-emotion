@@ -1,0 +1,26 @@
+.navbarr{
+    height: 80px;
+    width: 100%;
+    background-color: #058c42;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight:bolder;
+    font-size: 2em;
+    font-family: Chakra Petch;
+    color: #fff;
+}
+.footerr{
+    height: 80px;
+    width: 100%;
+    background-color: #058c42;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight:bolder;
+    font-size: 1.5em;
+    font-family: Chakra Petch;
+    color: #fff;
+}
