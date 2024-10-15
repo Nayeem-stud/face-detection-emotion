@@ -1,4 +1,4 @@
-# React Social Media Post Application
+# face-detection-emotion
 
 This documentation provides an overview of a simple React-based social media post creation application. The application allows users to select an image, perform facial recognition on it using the face-api.js library, and share posts.
 
